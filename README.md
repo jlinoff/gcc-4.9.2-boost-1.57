@@ -7,7 +7,7 @@ gcc-4.9.2-boost-1.57
 
     $ mkdir -p work/gcc
     $ cd work/gcc
-    $ git clone https://github.com/jlinoff/gcc-4.9.1-boost-1.56.git 4.9.2
+    $ git clone https://github.com/jlinoff/gcc-4.9.2-boost-1.56.git 4.9.2
     $ cd 4.9.2
     $ make
 
